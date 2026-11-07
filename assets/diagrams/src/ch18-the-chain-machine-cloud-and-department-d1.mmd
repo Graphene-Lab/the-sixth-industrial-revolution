@@ -1,0 +1,5 @@
+flowchart LR
+    A["Machine<br/>perceives and predicts"] -->|"telemetry"| B["Private cloud<br/>keeps the secret"]
+    B -->|"context"| C["Agent<br/>decides and acts"]
+    C -->|"tasks"| D["Departments<br/>accounting, warehouse, sales"]
+    D -->|"feedback"| A

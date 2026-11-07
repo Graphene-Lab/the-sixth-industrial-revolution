@@ -1,0 +1,6 @@
+flowchart TB
+    S["Sensors on the machine<br/>vibration, temperature, sound, images"] --> E["Edge NPU<br/>reads the stream in real time"]
+    E -->|"reflex: act now"| M["The machine acts"]
+    E -->|"summaries and alerts"| C["Private cloud<br/>keeps the long record"]
+    C -->|"over days and weeks"| A["Agent reasons<br/>about trends"]
+    A -->|"schedules repair"| M

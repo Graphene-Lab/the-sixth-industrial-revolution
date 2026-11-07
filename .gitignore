@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+*.user
+
+# OS cruft
+Thumbs.db
+.DS_Store
+
+# Renderer scratch
+.mermaid-tmp/
+
+# Agent session data
+.qwen/
+__pycache__/
+*.log
+
+# Session exports
+qwen-code-export-*.html

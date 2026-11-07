@@ -1,0 +1,5 @@
+flowchart TB
+    D["Company data<br/>machine and office"] --> K["Key held by the company"]
+    D --> E["Ciphertext in the private cloud"]
+    K --> E
+    E --> R["Never readable<br/>by the cloud operator"]

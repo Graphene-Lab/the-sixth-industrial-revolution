@@ -1,0 +1,25 @@
+{
+  "slug": "sixth-industrial-revolution",
+  "clean_cover": "assets/book-cover.png",
+  "cover_size": { "width": 1024, "height": 1536 },
+  "publisher": "Graphene Lab",
+  "year": "2026",
+  "languages": {
+    "EN": {
+      "title": "The Sixth Industrial Revolution",
+      "subtitle": "The Last Industrial Revolution That Will Involve Human Beings",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Artificial Intelligence",
+      "isbn": ""
+    },
+    "IT": {
+      "title": "La sesta rivoluzione industriale",
+      "subtitle": "L'ultima rivoluzione industriale che coinvolgerà gli esseri umani",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Intelligenza artificiale",
+      "isbn": ""
+    }
+  }
+}

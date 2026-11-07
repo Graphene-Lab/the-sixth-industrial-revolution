@@ -1,0 +1,5 @@
+flowchart TB
+    U["The user's private data"] --> L["Company servers<br/>encrypted at rest"]
+    L --> CH["Legal channel<br/>NSA-US-984XN / PRISM"]
+    CH --> NSA["National Security Agency"]
+    NSA -.-> R["Read in the clear"]
