@@ -17,7 +17,7 @@
 
 **A book about the industrial revolution that is already running on the shop floor — and about the human being who, for the first time, is not the muscle, the rhythm or the memory of the machine, but the one who decides.**
 
-Industry 4.0 connected the machines. The sixth revolution teaches them to perceive, to remember, to decide and to act — on a chip the size of a coin, inside a cloud that never leaves the factory walls, driven by software that can prove it is right. This book tells that story in one arc, from the first steam engine to the agent that closes the month-end at midnight, and it ends with a question most technology books avoid: what is left for us.
+Industry 4.0 connected the machines. The sixth revolution teaches them to perceive, to remember, to decide and to act — on a processor the width of a fingernail, inside a cloud that never leaves the factory walls, driven by software that can prove it is right. This book tells that story in one arc, from the first steam engine to the office that keeps working after the lights go out, and it ends with a question most technology books avoid: what is left for us.
 
 ---
 
@@ -49,7 +49,7 @@ The book is built as a single argument told through scenes, history and real num
 
 **It separates two kinds of mind.** Statistical intelligence is extraordinary at guessing and cannot prove anything. Deterministic AI is the opposite: it derives, it verifies, it can show its work. The book argues that a factory needs both, and that the difference between them is the difference between a suggestion and a signature.
 
-**It follows the chain into the office.** The same loop that runs a machine runs a department: perception, memory, decision, action. An agent that knows the business, a graph that connects customers, orders, machines and documents, and an office that keeps working after the lights go out — the chapters show how the shop floor and the back office become one organism, and where a human signature is still required by law and by sense.
+**It follows the chain into the office.** The same loop that runs a machine runs a department: perception, memory, decision, action. An agent that knows the business, a graph that connects machines, orders, invoices and departments, and an office that keeps working after the lights go out — the chapters show how the shop floor and the back office become one organism, and where a human signature is still required by law and by sense.
 
 **It ends with the machine that walks — and with us.** Humanoids on the floor, the cost curve that collapsed, how a factory is actually started from an empty shed, and finally the hard reading of the title: this is the last industrial revolution that will *involve* human beings. Not the last we will watch. The last we will be part of.
 
