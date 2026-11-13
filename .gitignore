@@ -17,3 +17,7 @@ __pycache__/
 
 # Session exports
 qwen-code-export-*.html
+
+# Authoring prompts (kept local, never published)
+prompt.txt
+prompt-traslator.md
