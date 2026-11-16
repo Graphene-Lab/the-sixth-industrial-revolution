@@ -39,7 +39,7 @@ Every edition is free and delivered as a direct file download — no account, no
 - The **PDF** is the reading edition: A5, typeset for screen and print, diagrams in vector form.
 - The **ePub** is the e-reader edition: reflowable text, covers and diagrams embedded as high-resolution images, works on Kindle (via Send to Kindle), Kobo, Apple Books, Calibre and every standard reader.
 - All files are attached to the [**latest release**](https://github.com/Graphene-Lab/the-sixth-industrial-revolution/releases/latest), where older versions remain available.
-- The full text also lives in this repository as Markdown: [`books/EN`](books/EN) · [`books/IT`](books/IT).
+- The full text also lives in this repository as Markdown: [`books/EN`](books/EN) · [`books/IT`](books/IT) · [`books/FR`](books/FR) · [`books/ES`](books/ES) · [`books/DE`](books/DE) · [`books/RU`](books/RU).
 
 ---
 
