@@ -1,0 +1,6 @@
+flowchart TB
+    S["Sensores en la máquina<br/>vibración, temperatura, sonido, imágenes"] --> E["NPU de borde<br/>lee el flujo en tiempo real"]
+    E -->|"reflejo: actuar ahora"| M["La máquina actúa"]
+    E -->|"resúmenes y alertas"| C["Nube privada<br/>conserva el registro prolongado"]
+    C -->|"con el paso de días y semanas"| A["El agente razona<br/>sobre las tendencias"]
+    A -->|"programa la reparación"| M

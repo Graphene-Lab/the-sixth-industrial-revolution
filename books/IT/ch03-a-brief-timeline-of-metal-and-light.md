@@ -52,7 +52,7 @@ Se volete capire la sesta rivoluzione, vi serve il senso dell'arco lungo, compre
 
 Se guardate la cronologia nel suo insieme, emerge una forma. Per circa duecentocinquant'anni la storia è stata quasi interamente *metallo*: macchine che muovevano, premevano, filavano e tagliavano. Il lato informativo --- la luce --- era un servo del controllo: un fischio, un segnale, un relè. Poi, nell'ultimo mezzo secolo, la luce ha recuperato. Il transistor, il microprocessore, la rete, la rete neurale: queste hanno dato alla luce una *mente* propria. E ora, nella sesta rivoluzione, metallo e luce non sono più padrone e servo. Sono *soci*, e la società si chiama fabbrica che pensa. Potete leggere l'intero arco in un solo sguardo:
 
-![Diagramma](../../assets/diagrams/ch03-a-brief-timeline-of-metal-and-light-d1.svg)
+![Diagramma](../../assets/diagrams/ch03-a-brief-timeline-of-metal-and-light-d1.IT.svg)
 
 Per due secoli il metallo ha governato e la luce era soltanto la sua serva; poi la luce, ricevuta una mente propria dal transistor, dal microprocessore, dalla rete e dalla rete neurale, ha cominciato a conversare con il metallo. Nella sesta rivoluzione i due non sono più padrone e servo ma soci, e la società è la fabbrica che pensa.
 

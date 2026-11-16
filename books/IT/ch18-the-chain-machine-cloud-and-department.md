@@ -6,7 +6,7 @@ Abbiamo ormai attraversato, pezzo per pezzo, ogni componente della sesta rivoluz
 
 Il ciclo ha quattro stadi, e vale la pena tenerli a mente insieme prima di espanderli:
 
-![Diagramma](../../assets/diagrams/ch18-the-chain-machine-cloud-and-department-d1.svg)
+![Diagramma](../../assets/diagrams/ch18-the-chain-machine-cloud-and-department-d1.IT.svg)
 
 La macchina percepisce il proprio mondo e produce telemetria. La nuvola privata riceve quella telemetria e la custodisce al sicuro, coerente e interrogabile. L'agente recupera il contesto preciso e pertinente dalla nuvola e dalla vostra base di conoscenza, decide che cosa fare e agisce. La sua azione è l'automazione del lavoro di un reparto: la contabilità, il magazzino, le vendite, l'assistenza. E il lavoro del reparto, a sua volta, genera nuovi requisiti e nuove azioni che tornano alla macchina e alla nuvola. Il ciclo è chiuso. La fabbrica è, nel senso più pieno della parola, *autocoordinata*.
 

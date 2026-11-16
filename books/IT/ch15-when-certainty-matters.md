@@ -62,7 +62,7 @@ La lezione di questa storia, per la sesta rivoluzione, è che la certezza non è
 
 È importante, ancora una volta, insistere che questo capitolo non sostiene la *sostituzione* della mente che indovina. La mente che indovina resta indispensabile per la percezione, la previsione e il linguaggio: i compiti in cui la risposta giusta si può mostrare ma non scrivere. La fabbrica che pensa deve dunque portare *entrambe* le menti e schierare ciascuna dove è sicuro farlo:
 
-![Diagramma](../../assets/diagrams/ch15-when-certainty-matters-d1.svg)
+![Diagramma](../../assets/diagrams/ch15-when-certainty-matters-d1.IT.svg)
 
 Lo strato della percezione --- la telecamera che vede un graffio, il sensore di vibrazione che prevede un guasto --- è la mente che indovina, ed è perfetta per il suo compito. Ma lo strato che *decide* che cosa fare della percezione, che verifica la decisione, che la dimostra corretta e la riconduce alla fonte, è la mente deterministica. Le due sono combinate, ciascuna al proprio posto, ed è questa combinazione a rendere la fabbrica affidabile nei luoghi in cui la fiducia non è negoziabile.
 

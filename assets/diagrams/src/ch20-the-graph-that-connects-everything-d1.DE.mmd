@@ -1,0 +1,29 @@
+flowchart TB
+  subgraph P["Physikalische Schicht"]
+    M["Maschine mit NPU<br/>nimmt wahr, entscheidet, handelt"]
+  end
+  subgraph CL["Cloud-Sicht"]
+    C["Private Zero-Knowledge-Cloud<br/>innerhalb des Unternehmens"]
+  end
+  subgraph IL["Intelligence-Sicht"]
+    A["Agent<br/>revidiert, entscheidet, handelt"]
+  end
+  subgraph WL["Work-Sicht"]
+    D1["Buchhaltung"]
+    D2["Lager"]
+    D3["Vertrieb"]
+    D4["Support 24/7"]
+    D5["Recht und Compliance"]
+  end
+  M -->|"Telemetrie"| C
+  C -->|"Kontext"| A
+  A -->|"Aufgaben"| D1
+  A -->|"Aufgaben"| D2
+  A -->|"Aufgaben"| D3
+  A -->|"Aufgaben"| D4
+  A -->|"Aufgaben"| D5
+  D1 -->|"Feedback"| M
+  D2 -->|"Feedback"| C
+  D3 -->|"Feedback"| M
+  D4 -->|"Feedback"| C
+  D5 -->|"Feedback"| M

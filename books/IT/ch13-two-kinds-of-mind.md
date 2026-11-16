@@ -38,7 +38,7 @@ La seconda tribù è la scuola **connessionista**: le reti neurali. La sua convi
 
 Per decenni le due tribù si combatterono, e ciascuna liquidò l'altra. I simbolici dicevano che i connessionisti non avevano teoria né garanzie; i connessionisti dicevano che i simbolici non avrebbero mai saputo gestire il disordine del mondo reale. Ciascuno aveva ragione sulla debolezza dell'altro ed era cieco sulla propria. L'intuizione silenziosa della sesta rivoluzione --- quella che questo capitolo vuole comunicare --- è che la lotta è sempre stata un errore. Le due tribù non sono rivali per lo stesso trono; sono due *strumenti diversi per due lavori diversi*, e la fabbrica che pensa ha bisogno di entrambi.
 
-![Diagramma](../../assets/diagrams/ch13-two-kinds-of-mind-d1.svg)
+![Diagramma](../../assets/diagrams/ch13-two-kinds-of-mind-d1.IT.svg)
 
 Il diagramma è l'intero argomento in un'immagine. Quando la decisione si può scrivere come regole esatte --- quando la specifica è completa e l'ingresso è ben definito --- la mente deterministica è lo strumento giusto, ed è *superiore*, perché è certa. Quando la decisione non si può scrivere come regole ma solo *mostrare* attraverso esempi --- riconoscimento, linguaggio, previsione --- la mente probabilistica è l'unico strumento che funziona. La fabbrica saggia non sceglie una tribù: chiede, per ogni decisione, quale strumento della tribù si adatti, e usa quello. È la sesta rivoluzione, ed è la soluzione di una discussione durata cinquant'anni.
 

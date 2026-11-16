@@ -1,0 +1,37 @@
+# Épilogue — L'usine qui rêvait
+
+## Le retour
+
+Nous avons commencé ce voyage au prologue, à quatre heures du matin, sur un sol d'usine endormi et éveillé à la fois — une machine qui rêvait. Retournons-y maintenant que nous comprenons ce qu'elle rêvait, afin que le voyage entier soit complet et que la boucle, enfin, soit entièrement refermée.
+
+Le capteur sur la broche continue de mesurer. La petite carte qui s'y trouve — un cerveau ARM, un NPU, sans ventilateur, bon marché — continue de demander à la machine comment elle se porte, et la machine continue de répondre, de la seule façon dont une machine peut répondre, en laissant lire la forme de ses vibrations. La vibration dit *un roulement près de l'avant commence à se plaindre*. La petite carte classe ceci non pas comme un nombre mais comme un sentiment-with-a-number, et elle l'envie dans les ténèbres.
+
+Elle l'envie dans un cloud conservé de l'autre côté d'un mur que l'entreprise possède. Les données ne quittent pas le bâtiment sinon comme un chuchotement chifré avant d'être prononcé et déchifré seulement là où il doit être entendu. Elles arrivent, et quelque part dans le bâtiment une seconde intelligence — celle qui lit la télémétrie de toute l'usine depuis un an — se tourne vers le nouveau son. Une troisième intelligence, dans le bureau à l'étage où aucun opérateur n'a jamais posé le pied, s'éveille. On lui a confié le travail qui appartenait autrefois à un humain précis. Elle brouille l'ordre de maintenance. Elle vérifie l'entrepôt pour le roulement. Elle compose le message au directeur de production dans le langage calme et simple qui est le sien. Elle fait tout cela avant que le soleil ait dépassé le toit, et avant qu'aucun être humain sur la planète ait décidé que cela devait l'être.
+
+## L'ensemble de la chaîne, vue dans son ensemble
+
+Maintenant que nous avons parcouru toute la chaîne, nous pouvons voir ce que la machine rêvait, et ce n'est pas un rêve du tout. Elle rêvait la sixième révolution industrielle, en miniature — toute la boucle, refermée en une seule nuit, sur une seule machine :
+
+La machine pense, sur un puce — Chapitre 5, et la machine qui perçoit, décide et agit. Le cloud conserve son secret, sans confiance et à connaissance zéro, à l'intérieur des murs — Chapitre 11, le cloud à l'intérieur des murs. L'agent décide, connaissant votre entreprise et n'oubliant jamais — Chapitre 17, l'agent qui connaît votre entreprise. Le bureau automatise, à minuit, à travers les départements — Chapitre 16 et Chapitre 19. L'ensemble se connecte en un seul graphe auto-coordonné — Chapitre 20, le graphe qui connecte tout. L'humanoïde marche sur le sol pour porter le travail qu'aucun corps humain ne devrait porter — Chapitre 21. Et l'humain, promu au sommet de la chaîne, détient le veto, porte le jugement et prend la responsabilité de l'issue — Chapitre 22, où l'humain est encore nécessaire.
+
+C'est beaucoup, entassé dans une seule nuit silencieuse sur une seule machine. Mais ce n'est pas de la magie. C'est la somme des composants que nous avons examinés un par un, et c'est, au bout du compte, un plan — refermant une boucle à la fois, mesuré au fur et à mesure, étendu dès qu'il se révèle. La machine qui rêvit n'est pas une merveille à admirer ; c'est une usine à construire, une section à la fois.
+
+## Une lettre à l'humain au sommet de la chaîne
+
+Si vous avez lu jusqu'ici, vous êtes, que vous le sachiez ou non, l'humain au sommet de la chaîne. Vous êtes celui à qui tout ce livre s'adresse : celui qui se tiendra à côté de la machine qui perçoit, du cloud qui conserve son secret, et de l'agent qui connaît l'entreprise, et qui détiendra le veto, portera le jugement et prendra la responsabilité de l'issue. Il vaut la peine de dire, clairement, ce que ce rôle vous demande, car ce n'est pas une petite chose et ce n'est pas une chose passive.
+
+Il vous demande de *rester éveillé*. La grande tentation d'un système qui fonctionne est de cesser de le surveiller, et la grande danger d'une machine qui a généralement raison est que personne ne vérifie le moment où elle se trompe. La sixième révolution ne vous demande pas de concurrencer la machine ; elle vous demande de *témoigner* d'elle, et le témoignage est une discipline. Elle vous demande de *connaître la différence* entre la décision qui peut être un pari et la décision qui doit être certaine — la distinction de la Partie IV — et d'insister, toujours, sur le fait que les décisions certaines sont prises par l'esprit certain. Et elle vous demande de *répondre* : signer votre nom, en effet, à l'issue, et porter le coût si elle est fausse. Ce n'est pas une charge à automatiser. C'est le plus haut travail qu'un humain puisse faire, et c'est le travail qui garde toute la boucle en sécurité.
+
+La machine fera le faire. Le cloud conservera le secret. L'agent se souviendra de ce que vous lui avez enseigné, et il continuera de travailler après que les lumières seront éteintes. Et vous — l'humain au sommet de la chaîne — serez celui qui décide de ce que tout cela est *pour*. C'est la promotion que la sixième révolution offre, et elle est offerte à chaque travailleur prêt à l'accepter. Acceptez-la.
+
+Mais acceptez-la en sachant ce que vous acceptez. La promotion a un terme, et le terme est écrit dans aucun contrat : quand le cycle peut produire ses propres conditions, la main qui signe aujourd'hui ne sera plus nécessaire, et la dernière signature de l'ère industrielle appartiendra à quelqu'un qui prend congé sans savoir qu'il est le dernier. Sur la plage la palmier a déjà poussé, la noix de coco est déjà ouverte, le cigare est en attente. Que cet endroit soit un prix ou une cage confortable dépend de ce que nous faisons du temps que la machine nous laisse, et ce temps ne peut être acheté, facturé, ou inscrit dans aucun retour sur investissement. C'est la seule marchandise que cette révolution n'a pas rendue moins chère.
+
+## La porte
+
+Il reste une chose à dire, et c'est la raison pour laquelle ce livre existe. La sixième révolution industrielle n'est pas une théorie ; c'est une pratique, et la pratique est en train d'être construite, publiée et affinée en ce moment par un petit laboratoire de recherche — AI Technology Graphene-Lab — dont les projets vous avez rencontrés à travers ces pages : l'intelligence à carte unique, le cloud sans confiance et à connaissance zéro, l'IA déterministe qui transforme un programme compilé en une garantie, et l'agent agentique qui connaît votre entreprise et n'oubliant jamais. Ce livre est, en partie, une visite de cette pratique ; et c'est une visite avec une porte ouverte.
+
+Le QR code qui suit mène vers une chaîne Telegram, où le travail est montré, non simplement décrit — où la machine qui pense, le cloud qui conserve son secret, l'agent qui connaît votre entreprise, et l'humanoïde qui marche sur le sol sont démontrés tels qu'ils sont, en temps réel. Si vous avez lu jusqu'ici et souhaitez voir l'avenir que ce livre décrit — non comme une promesse, mais comme une réalité travaillée et publiée — la porte est ici. Laissez un peu d'espace autour d'elle, et passez par elle quand vous serez prêt. L'usine qui rêvit rêve déjà ; le reste est simplement à apprendre sa langue, puis à s'y joindre.
+
+![QR code — en savoir plus et adopter les technologies de ce livre](../../assets/qr-telegram.png)
+
+*La sixième révolution industrielle — La dernière révolution industrielle qui impliquera des êtres humains.*

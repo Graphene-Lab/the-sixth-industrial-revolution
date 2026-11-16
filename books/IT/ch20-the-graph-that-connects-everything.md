@@ -8,7 +8,7 @@ Disegniamo il grafo con cura, perché il grafo è l'essenza dell'argomento e ved
 
 ## Il grafo
 
-![Diagramma](../../assets/diagrams/ch20-the-graph-that-connects-everything-d1.svg)
+![Diagramma](../../assets/diagrams/ch20-the-graph-that-connects-everything-d1.IT.svg)
 
 ## Una curiosità: i sette ponti e il primo grafo
 

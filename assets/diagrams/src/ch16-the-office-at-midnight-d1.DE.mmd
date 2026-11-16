@@ -1,0 +1,6 @@
+flowchart TB
+    P["Erkennt<br/>eine Warnung aus Zeile drei"] --> R["Erinnert sich<br/>an die deterministische Erinnerung und das Archiv"]
+    R --> D["Entscheidet<br/>die Lagerung ist defekt"]
+    D --> A["Handelt<br/>entwirft Befehl, prüft Vorrat, warnt"]
+    A --> F["Archiviert<br/>den Bericht"]
+    F -->|"nächste Nacht, wieder"| P

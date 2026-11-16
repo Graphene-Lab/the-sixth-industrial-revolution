@@ -1,0 +1,29 @@
+flowchart TB
+  subgraph P["Couche physique"]
+    M["Machine avec NPU<br/>perçoit, décide, agit"]
+  end
+  subgraph CL["Couche cloud"]
+    C["Cloud privé sans connaissance<br/>à l'intérieur de l'entreprise"]
+  end
+  subgraph IL["Couche intelligence"]
+    A["Agent<br/>récupère, décide, agit"]
+  end
+  subgraph WL["Couche travail"]
+    D1["Comptabilité"]
+    D2["Entrepôt"]
+    D3["Ventes"]
+    D4["Support 24/7"]
+    D5["Juridique et conformité"]
+  end
+  M -->|"télémétrie"| C
+  C -->|"contexte"| A
+  A -->|"tâches"| D1
+  A -->|"tâches"| D2
+  A -->|"tâches"| D3
+  A -->|"tâches"| D4
+  A -->|"tâches"| D5
+  D1 -->|"retour d'information"| M
+  D2 -->|"retour d'information"| C
+  D3 -->|"retour d'information"| M
+  D4 -->|"retour d'information"| C
+  D5 -->|"retour d'information"| M

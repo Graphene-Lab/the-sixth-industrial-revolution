@@ -52,7 +52,7 @@ La quinta e la sesta rivoluzione sono diverse perché mirano a quell'ultimo anel
 
 Prima di metterci in viaggio, aiuta conoscere il territorio. La catena che rende possibile la sesta rivoluzione ha quattro componenti, e compaiono in questo libro nell'ordine in cui devono essere assemblate:
 
-![Diagramma](../../assets/diagrams/ch01-the-revolutions-that-made-the-earth-d1.svg)
+![Diagramma](../../assets/diagrams/ch01-the-revolutions-that-made-the-earth-d1.IT.svg)
 
 Il primo anello, la macchina che pensa, è l'argomento della Parte II. Il secondo, la nuvola privata, è la Parte III. Il terzo e il quarto, l'agente che ragiona e l'ufficio automatizzato, sono la Parte V. Tra loro si colloca la Parte IV, che pone la domanda più importante dell'intera storia: non come costruire l'intelligenza, ma quale tipo di intelligenza una fabbrica possa affidare alla propria sicurezza. Ci torneremo, e vale la pena sapere fin d'ora che la risposta è ciò che rende questa rivoluzione --- e questo libro --- diversa da tutto ciò che è venuto prima.
 

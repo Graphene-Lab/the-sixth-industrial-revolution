@@ -22,7 +22,7 @@ Ciò che i documenti diffusi fecero con più efficacia fu mostrare non *se* le a
 
 L'azienda che teneva aperta la porta non leggeva i vostri messaggi e non li consegnava a mano. Manteneva, a livello di architettura, un punto in cui i vostri dati *potevano essere presi*. Il tradimento non fu personale: fu *strutturale*. Era incorporato nel progetto del servizio, nelle condizioni d'uso che avete accettato senza leggere, nel quadro giuridico che rendeva impossibile resistere senza resistere alla legge stessa. Ed è il dettaglio che il proprietario di una fabbrica deve interiorizzare, perché la sesta rivoluzione affronterà una scelta strutturale identica.
 
-![Diagramma](../../assets/diagrams/ch10-when-the-cloud-stole-your-company-d1.svg)
+![Diagramma](../../assets/diagrams/ch10-when-the-cloud-stole-your-company-d1.IT.svg)
 
 Il diagramma qui sopra è un quadro semplificato del meccanismo: i vostri dati, tenuti da un'azienda dietro i propri muri, passavano attraverso un *canale legale* verso l'agenzia, che poteva leggerli in chiaro. La parola chiave è *canale*: l'azienda non perse il controllo dei dati a favore di un ladro; mantenne volontariamente un ingresso dal quale lo Stato poteva entrare. È la differenza tra un furto con scasso e un complotto, e il datagate fu, in fondo, un complotto costruito dentro l'architettura della nuvola moderna.
 

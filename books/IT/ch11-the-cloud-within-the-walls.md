@@ -38,7 +38,7 @@ Non è un'ipotesi. L'architettura esiste, è pubblicata, ed è costruita per ris
 
 Il modo in cui CloudServer lo realizza è istruttivo, e vale la pena seguire i dati attraverso di esso una volta, perché il meccanismo è l'intero argomento. La macchina, o l'applicazione d'ufficio, possiede la chiave. Cifra i propri dati *prima* che lascino l'edificio. Poi manda solo *testo cifrato* --- la cassaforte chiusa --- al CloudServer. Il server immagazzina, sincronizza e serve quel testo cifrato a ogni macchina e a ogni ufficio autorizzato, tutto senza mai possedere la chiave che potrebbe aprirlo. Quando una macchina ha bisogno dei dati, il server restituisce il testo cifrato; la macchina --- non il server --- lo decifra, localmente, con la chiave che ha tenuto. Il server è un corriere muto e cieco per i dati di tutta l'azienda, capace di spostarli e custodirli ma mai di leggerli. È l'intera innovazione, ed è ciò che rende la nuvola dentro i muri *trustless* nel senso più vero.
 
-![Diagramma](../../assets/diagrams/ch11-the-cloud-within-the-walls-d1.svg)
+![Diagramma](../../assets/diagrams/ch11-the-cloud-within-the-walls-d1.IT.svg)
 
 Il diagramma qui sopra è, spero, un quadro fedele del meccanismo: la chiave resta dentro l'edificio, i dati viaggiano e sono immagazzinati solo come testo cifrato, e l'unico luogo in cui diventano leggibili è *dentro i muri dell'azienda*, su una macchina che tiene la chiave. Il CloudServer è presente a ogni passo tranne il primo e l'ultimo: è il vettore, non il lettore. È la nuvola che il datagate ha reso necessaria, ed è ciò che permette alla telemetria più preziosa della fabbrica di viaggiare finalmente, al sicuro, verso il luogo in cui sarà ragionata.
 

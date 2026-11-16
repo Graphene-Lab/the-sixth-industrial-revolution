@@ -1,0 +1,6 @@
+flowchart TB
+    P["Percibe<br/>una advertencia desde la línea tres"] --> R["Recuerda<br/>la memoria determinista y el archivo"]
+    R --> D["Decide<br/>que el bearing está fallando"]
+    D --> A["Actúa<br/>redacta la orden, revisa el stock, advierte"]
+    A --> F["Archiva<br/>el informe"]
+    F -->|"noche siguiente, otra vez"| P

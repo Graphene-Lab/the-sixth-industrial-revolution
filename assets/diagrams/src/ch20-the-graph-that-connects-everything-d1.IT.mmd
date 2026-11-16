@@ -1,0 +1,29 @@
+flowchart TB
+  subgraph P["Livello fisico"]
+    M["Macchina con NPU<br/>percepisce, decide, agisce"]
+  end
+  subgraph CL["Livello cloud"]
+    C["Cloud privato senza conoscenze<br/>all'interno dell'azienda"]
+  end
+  subgraph IL["Livello intelligenza"]
+    A["Agente<br/>recupera, decide, agisce"]
+  end
+  subgraph WL["Livello di lavoro"]
+    D1["Contabilità"]
+    D2["Magazzino"]
+    D3["Vendite"]
+    D4["Assistenza 24/7"]
+    D5["Legale e conformità"]
+  end
+  M -->|"telemetria"| C
+  C -->|"contesto"| A
+  A -->|"compiti"| D1
+  A -->|"compiti"| D2
+  A -->|"compiti"| D3
+  A -->|"compiti"| D4
+  A -->|"compiti"| D5
+  D1 -->|"feedback"| M
+  D2 -->|"feedback"| C
+  D3 -->|"feedback"| M
+  D4 -->|"feedback"| C
+  D5 -->|"feedback"| M

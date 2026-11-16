@@ -54,7 +54,7 @@ C'è una difficoltà pratica che la descrizione romantica della telemetria tende
 
 È per questo che la telemetria della sesta rivoluzione non è un solo tipo di dato a una sola velocità, ma un progetto a *due livelli*, e vale la pena disegnarlo con chiarezza:
 
-![Diagramma](../../assets/diagrams/ch12-telemetry-as-the-nervous-system-of-the-factory-d1.svg)
+![Diagramma](../../assets/diagrams/ch12-telemetry-as-the-nervous-system-of-the-factory-d1.IT.svg)
 
 Al **margine** la macchina legge il proprio flusso a piena risoluzione, perché il riflesso deve essere istantaneo e il segnale grezzo va esaminato in ogni dettaglio. Nella **nuvola** la macchina manda *riassunti* --- storie ricampionate, caratteristiche estratte, allarmi e l'occasionale finestra a piena risoluzione intorno a un evento --- così che il registro lungo si conservi senza conservare ogni byte. Il margine legge la piena; la nuvola conserva la storia; l'agente ragiona sulla storia. È così che una fabbrica può osservare tutto senza affogare: il dato grezzo si consuma dove è prodotto, e solo il suo *significato* viene mandato avanti, cifrato, alla nuvola privata.
 

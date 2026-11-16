@@ -1,0 +1,6 @@
+flowchart TB
+    S["Sensori sulla macchina<br/>vibrazione, temperatura, suono, immagini"] --> E["NPU periferica<br/>legge lo stream in tempo reale"]
+    E -->|"riflesso: agisci ora"| M["La macchina agisce"]
+    E -->|"riassunti e allarmi"| C["Cloud privato<br/>conserva la cronologia prolungata"]
+    C -->|"nel corso di giorni e settimane"| A["L'agente ragiona<br/>sulle tendenze"]
+    A -->|"pianifica la riparazione"| M

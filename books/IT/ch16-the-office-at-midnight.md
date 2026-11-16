@@ -36,7 +36,7 @@ C'è un fatto che rende l'ufficio a mezzanotte grande quanto è davvero, ed è u
 
 Per vedere che non si tratta soltanto di una visione ma di una sequenza --- una cosa reale che accade in ordine reale --- aiuta osservare la notte dell'agente disegnata come un piccolo flusso, così che il profilo del lavoro sia chiaro. Ciò che l'agente fa a mezzanotte non è una singola azione ma una catena, e la catena è la stessa che governa la macchina: percepisce, ricorda, decide, agisce, archivia.
 
-![Diagramma](../../assets/diagrams/ch16-the-office-at-midnight-d1.svg)
+![Diagramma](../../assets/diagrams/ch16-the-office-at-midnight-d1.IT.svg)
 
 Questo è l'ufficio a mezzanotte, disegnato in cinque passi. Non è fantascienza. È il completamento naturale della catena, e l'agente che esegue questo lavoro, con la sua memoria proprietaria e la sua sandbox, è l'argomento del prossimo capitolo. Ma prima di scendere nei dettagli dovremmo capire la forma dell'intera catena, il modo in cui la macchina, la nuvola, l'agente e l'ufficio si connettono in un ciclo continuo. Quella forma --- il grafo dell'«Industria 7.0» --- è l'argomento del capitolo dopo il prossimo. Per ora lasciamo che l'ufficio a mezzanotte resti come anticipazione di ciò che viene.
 

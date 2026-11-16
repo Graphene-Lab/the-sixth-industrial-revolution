@@ -38,7 +38,7 @@ La ragione per cui la NPU locale rende possibile --- anzi, *necessario* --- ques
 
 I quattro mestieri non stanno uno accanto all'altro: formano un ciclo che si chiude su se stesso, e disegnarlo rende l'intero capitolo più chiaro di qualsiasi elenco. La macchina ispeziona il mondo, sorveglia ciò che cambia, prevede ciò che cambierà, e agisce --- e agendo cambia il mondo stesso che stava ispezionando, così il ciclo riparte un istante dopo. In reparto questo ciclo non compie un giro al giorno: ne compie migliaia al secondo, nel tempo necessario a fare un singolo pezzo.
 
-![Diagramma](../../assets/diagrams/ch06-intelligence-on-the-shop-floor-d1.svg)
+![Diagramma](../../assets/diagrams/ch06-intelligence-on-the-shop-floor-d1.IT.svg)
 
 È il vocabolario dell'intero capitolo in un solo sguardo: percepire, poi sorvegliare, poi prevedere, poi agire, e di nuovo. Ogni passo alimenta il successivo, e la freccia che da *Agire* torna a *Ispezionare* è il punto: la macchina non legge un elenco fisso di istruzioni, rilegge continuamente il mondo che ha appena cambiato. Un riflesso, ancora una volta, resta dentro il corpo; questo ciclo resta dentro la macchina.
 

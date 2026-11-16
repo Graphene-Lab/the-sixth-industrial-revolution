@@ -1,0 +1,29 @@
+flowchart TB
+  subgraph P["Capa física"]
+    M["Máquina con NPU<br/>percibe, decide, actúa"]
+  end
+  subgraph CL["Capa nube"]
+    C["Nube privada sin conocimiento<br/>dentro de la empresa"]
+  end
+  subgraph IL["Capa inteligencia"]
+    A["Agente<br/>recupera, decide, actúa"]
+  end
+  subgraph WL["Capa trabajo"]
+    D1["Contabilidad"]
+    D2["Almacén"]
+    D3["Ventas"]
+    D4["Soporte 24/7"]
+    D5["Legal y cumplimiento"]
+  end
+  M -->|"telemetría"| C
+  C -->|"contexto"| A
+  A -->|"tareas"| D1
+  A -->|"tareas"| D2
+  A -->|"tareas"| D3
+  A -->|"tareas"| D4
+  A -->|"tareas"| D5
+  D1 -->|"retroalimentación"| M
+  D2 -->|"retroalimentación"| C
+  D3 -->|"retroalimentación"| M
+  D4 -->|"retroalimentación"| C
+  D5 -->|"retroalimentación"| M

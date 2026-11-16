@@ -4,6 +4,9 @@
   "cover_size": { "width": 1024, "height": 1536 },
   "publisher": "Graphene Lab",
   "year": "2026",
+  "downloads": {
+    "base_url": "https://github.com/Graphene-Lab/the-sixth-industrial-revolution/releases/latest/download"
+  },
   "languages": {
     "EN": {
       "title": "The Sixth Industrial Revolution",
@@ -19,6 +22,38 @@
       "author": "Andrea Bruno",
       "color": "#FFFFFF",
       "genre": "Business / Intelligenza artificiale",
+      "isbn": ""
+    },
+    "FR": {
+      "title": "La sixième révolution industrielle",
+      "subtitle": "La dernière révolution industrielle qui impliquera les êtres humains",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Intelligence artificielle",
+      "isbn": ""
+    },
+    "ES": {
+      "title": "La sexta revolución industrial",
+      "subtitle": "La última revolución industrial que involucrará a los seres humanos",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Negocios / Inteligencia artificial",
+      "isbn": ""
+    },
+    "DE": {
+      "title": "Die sechste industrielle Revolution",
+      "subtitle": "Die letzte industrielle Revolution, an der Menschen beteiligt sein werden",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Künstliche Intelligenz",
+      "isbn": ""
+    },
+    "RU": {
+      "title": "Шестая промышленная революция",
+      "subtitle": "Последняя промышленная революция, в которой будут участвовать люди",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Бизнес / Искусственный интеллект",
       "isbn": ""
     }
   }
